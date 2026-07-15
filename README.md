@@ -1,2 +1,1 @@
-# Number-problems-
-palindrome , lucky , prime ....................................................................................numbers
+# coding stuff
